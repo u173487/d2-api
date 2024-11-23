@@ -10,4 +10,4 @@
 ## Usage
 `curl -X POST "http://localhost:3000/convert" -F "file=@example.d2" -o diagram2.svg`
 
-* Swap out url with actual location*
+*Swap out url with actual location*
